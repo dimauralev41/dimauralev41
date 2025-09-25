@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 System administrator
-DevOps Engeneer 
+DevOps Engineer 
 
 
 # 💻 Tech Stack:
